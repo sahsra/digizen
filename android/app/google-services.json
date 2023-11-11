@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046359196502",
+    "project_id": "digi---zen",
+    "storage_bucket": "digi---zen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046359196502:android:cd876d82f8dfae46698cf7",
+        "android_client_info": {
+          "package_name": "digi.zen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVjZeveF5TmN8CH4UuI7488YepHIBHs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
